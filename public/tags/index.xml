@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on InfoProBusiness</title>
+    <link>infopb/tags/</link>
+    <description>Recent content in Tags on InfoProBusiness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="infopb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discussions</title>
+      <link>infopb/tags/discussions/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>infopb/tags/discussions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>infopb/tags/ideas/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>infopb/tags/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A</title>
+      <link>infopb/tags/qa/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>infopb/tags/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show and tell</title>
+      <link>infopb/tags/show-and-tell/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>infopb/tags/show-and-tell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>infopb/tags/support/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>infopb/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search engine</title>
+      <link>infopb/tags/search-engine/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>infopb/tags/search-engine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

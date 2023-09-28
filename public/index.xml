@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InfoProBusiness</title>
+    <link>infopb/</link>
+    <description>Recent content on InfoProBusiness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Nov 2022 18:01:26 +0100</lastBuildDate>
+    
+        <atom:link href="infopb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main areas of activity</title>
+      <link>infopb/gallery/main-branches/</link>
+      <pubDate>Tue, 01 Nov 2022 18:01:26 +0100</pubDate>
+      
+      <guid>infopb/gallery/main-branches/</guid>
+      <description>InfoProBusiness has been on the information services market for more than 15 years and during this time we have established ourselves as a reliable and professional performer of a wide range of information tasks</description>
+    </item>
+    
+    <item>
+      <title>Support and Discussions</title>
+      <link>infopb/article/support-and-discussions/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>infopb/article/support-and-discussions/</guid>
+      <description>Support is provided through the [Issues] and [Discussions] sections of the each project. Please use the Issues section if you would like to report a defect or bug. For any other requests, use the Discussions section.
+Please use the following guidelines if you want to start a discussion:
+For any questions regarding a specific feature, or if you need help using or customizing the subject, use the Questions &amp;amp; Answers (Q&amp;amp;A) category.</description>
+    </item>
+    
+    <item>
+      <title>Duckduckgo.com</title>
+      <link>infopb/link/duckduckgo/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>infopb/link/duckduckgo/</guid>
+      <description>A search engine that respects your privacy.</description>
+    </item>
+    
+  </channel>
+</rss>
