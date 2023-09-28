@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ИнфоПроБизнес</title>
-    <link>infopb/ru/page/</link>
+    <link>/infopb/ru/page/</link>
     <description>Recent content in Pages on ИнфоПроБизнес</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 15 Dec 2021 10:45:44 +0200</lastBuildDate><atom:link href="infopb/ru/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 10:45:44 +0200</lastBuildDate><atom:link href="/infopb/ru/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>О нас</title>
-      <link>infopb/ru/page/we/</link>
+      <link>/infopb/ru/page/we/</link>
       <pubDate>Wed, 15 Dec 2021 10:45:44 +0200</pubDate>
       
-      <guid>infopb/ru/page/we/</guid>
+      <guid>/infopb/ru/page/we/</guid>
       <description>Мы - комманда профессиональных разработиков прораммного обеспечения и баз данных, а также специалистов в предметной области информационного, финансового и налогового управления. За 15-летний срок нашей работы на рынке компания IPB зарекомендовала себя надежным партнером, со вниманием относящимся ко всем запроам и потребностям наших многочисленных клиентов.</description>
     </item>
     
     <item>
       <title>Банковские реквизиты</title>
-      <link>infopb/ru/page/banking-information/</link>
+      <link>/infopb/ru/page/banking-information/</link>
       <pubDate>Mon, 01 Nov 2021 13:18:45 +0100</pubDate>
       
-      <guid>infopb/ru/page/banking-information/</guid>
+      <guid>/infopb/ru/page/banking-information/</guid>
       <description>Принимаем только наличные вьетнамские донги</description>
     </item>
     
     <item>
       <title>Контакты</title>
-      <link>infopb/ru/page/contacts/</link>
+      <link>/infopb/ru/page/contacts/</link>
       <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
       
-      <guid>infopb/ru/page/contacts/</guid>
+      <guid>/infopb/ru/page/contacts/</guid>
       <description>ООО &amp;ldquo;ИНФОРМАЦИОННОЕ АГЕНТСТВО &amp;ldquo;ИНФОПРОФБИЗНЕС&amp;rdquo;
 Адрес: 117418, Москва, ул Профсоюзная, Д. 25 К. 1, кв. 133
 ИНН: 7727639674
