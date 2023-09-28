@@ -2,235 +2,235 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/ru/categories/</loc>
+    <loc>/infopb/ru/categories/</loc>
     <lastmod>2022-11-01T18:01:26+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/infopb/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/categories/"
+                href="/infopb/ru/categories/"
                 />
   </url><url>
-    <loc>/ru/gallery/</loc>
+    <loc>/infopb/ru/gallery/</loc>
     <lastmod>2022-11-01T18:01:26+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/"
+                href="/infopb/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/"
+                href="/infopb/ru/gallery/"
                 />
   </url><url>
-    <loc>/ru/</loc>
+    <loc>/infopb/ru/</loc>
     <lastmod>2022-11-01T18:01:26+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/infopb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/"
+                href="/infopb/ru/"
                 />
   </url><url>
-    <loc>/ru/categories/%D0%BE-%D0%BD%D0%B0%D1%81/</loc>
+    <loc>/infopb/ru/categories/%D0%BE-%D0%BD%D0%B0%D1%81/</loc>
     <lastmod>2022-11-01T18:01:26+01:00</lastmod>
   </url><url>
-    <loc>/ru/gallery/main-branches/</loc>
+    <loc>/infopb/ru/gallery/main-branches/</loc>
     <lastmod>2022-11-01T18:01:26+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/gallery/main-branches/"
+                href="/infopb/gallery/main-branches/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/gallery/main-branches/"
+                href="/infopb/ru/gallery/main-branches/"
                 />
   </url><url>
-    <loc>/ru/page/</loc>
+    <loc>/infopb/ru/page/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/"
+                href="/infopb/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/page/"
+                href="/infopb/ru/page/"
                 />
   </url><url>
-    <loc>/ru/page/we/</loc>
+    <loc>/infopb/ru/page/we/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/we/"
+                href="/infopb/page/we/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/page/we/"
+                href="/infopb/ru/page/we/"
                 />
   </url><url>
-    <loc>/ru/article/</loc>
+    <loc>/infopb/ru/article/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/article/"
+                href="/infopb/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/article/"
+                href="/infopb/ru/article/"
                 />
   </url><url>
-    <loc>/ru/author/</loc>
+    <loc>/infopb/ru/author/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/"
+                href="/infopb/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/author/"
+                href="/infopb/ru/author/"
                 />
   </url><url>
-    <loc>/ru/tags/diskussion/</loc>
+    <loc>/infopb/ru/tags/diskussion/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>/ru/tags/ideas/</loc>
+    <loc>/infopb/ru/tags/ideas/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/ideas/"
+                href="/infopb/tags/ideas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/ideas/"
+                href="/infopb/ru/tags/ideas/"
                 />
   </url><url>
-    <loc>/ru/author/infopb/</loc>
+    <loc>/infopb/ru/author/infopb/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>/ru/tags/qa/</loc>
+    <loc>/infopb/ru/tags/qa/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/qa/"
+                href="/infopb/tags/qa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/qa/"
+                href="/infopb/ru/tags/qa/"
                 />
   </url><url>
-    <loc>/ru/tags/show-tell/</loc>
+    <loc>/infopb/ru/tags/show-tell/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>/ru/tags/support/</loc>
-    <lastmod>2021-11-01T18:10:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/tags/support/"
-                />
-  </url><url>
-    <loc>/ru/tags/</loc>
+    <loc>/infopb/ru/tags/support/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/infopb/tags/support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/tags/"
+                href="/infopb/ru/tags/support/"
                 />
   </url><url>
-    <loc>/ru/article/support-and-discussions/</loc>
+    <loc>/infopb/ru/tags/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/article/support-and-discussions/"
+                href="/infopb/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/article/support-and-discussions/"
+                href="/infopb/ru/tags/"
                 />
   </url><url>
-    <loc>/ru/page/banking-information/</loc>
+    <loc>/infopb/ru/article/support-and-discussions/</loc>
+    <lastmod>2021-11-01T18:10:14+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/infopb/article/support-and-discussions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/infopb/ru/article/support-and-discussions/"
+                />
+  </url><url>
+    <loc>/infopb/ru/page/banking-information/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/banking-information/"
+                href="/infopb/page/banking-information/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/page/banking-information/"
+                href="/infopb/ru/page/banking-information/"
                 />
   </url><url>
-    <loc>/ru/page/contacts/</loc>
+    <loc>/infopb/ru/page/contacts/</loc>
     <lastmod>2021-11-01T13:17:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/contacts/"
+                href="/infopb/page/contacts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/page/contacts/"
+                href="/infopb/ru/page/contacts/"
                 />
   </url><url>
-    <loc>/ru/series/</loc>
+    <loc>/infopb/ru/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="/infopb/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/series/"
+                href="/infopb/ru/series/"
                 />
   </url><url>
-    <loc>/ru/archive/</loc>
+    <loc>/infopb/ru/archive/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archive/"
+                href="/infopb/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/archive/"
+                href="/infopb/ru/archive/"
                 />
   </url>
 </urlset>

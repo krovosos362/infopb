@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>search engine on InfoProBusiness</title>
-    <link>/tags/search-engine/</link>
+    <link>/infopb/tags/search-engine/</link>
     <description>Recent content in search engine on InfoProBusiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="/infopb/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duckduckgo.com</title>
-      <link>/link/duckduckgo/</link>
+      <link>/infopb/link/duckduckgo/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>/link/duckduckgo/</guid>
+      <guid>/infopb/link/duckduckgo/</guid>
       <description>A search engine that respects your privacy.</description>
     </item>
     
