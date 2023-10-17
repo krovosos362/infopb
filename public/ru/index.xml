@@ -1,57 +1,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ИнфоПроБизнес</title>
-    <link>http://p11.local/infopb/ru/</link>
+    <link>http://ostojenka.ddns.net/infopb/ru/</link>
     <description>Recent content on ИнфоПроБизнес</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 15 Dec 2021 10:45:44 +0200</lastBuildDate>
     
-        <atom:link href="http://p11.local/infopb/ru/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://ostojenka.ddns.net/infopb/ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ПРОВЕРКА КОНТРАГЕНТОВ </title>
-      <link>http://p11.local/infopb/ru/article/marketplaces/</link>
+      <link>http://ostojenka.ddns.net/infopb/ru/article/marketplaces/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>http://p11.local/infopb/ru/article/marketplaces/</guid>
+      <guid>http://ostojenka.ddns.net/infopb/ru/article/marketplaces/</guid>
       <description>Комплекс сервисов по проверке и оценке надежности контрагента. Продукт предоставляет актуальные и архивные сведения о компаниях и предпринимателях, визуализирует все действующие и исторические юридические связи, проверяет аффилированность и выявляет конечных бенефициаров</description>
     </item>
     
     <item>
       <title>РАЗРАБОТКА И ЭКСПЛУАТАЦИЯ ИНТЕГРИРОВАННЫХ МАРКЕТПЛЕЙСОВ</title>
-      <link>http://p11.local/infopb/ru/article/verification/</link>
+      <link>http://ostojenka.ddns.net/infopb/ru/article/verification/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>http://p11.local/infopb/ru/article/verification/</guid>
+      <guid>http://ostojenka.ddns.net/infopb/ru/article/verification/</guid>
       <description>Создание маркетплейсов, включающих информацию из многих разнородных источников. Организация эффективного многокритериального поиска с использованием динамическских словарей. Посторение информативного отображения неоднородных данных</description>
     </item>
     
     <item>
       <title>РАЗРАБОТКА ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ</title>
-      <link>http://p11.local/infopb/ru/article/software/</link>
+      <link>http://ostojenka.ddns.net/infopb/ru/article/software/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>http://p11.local/infopb/ru/article/software/</guid>
+      <guid>http://ostojenka.ddns.net/infopb/ru/article/software/</guid>
       <description>Мы имеем богатый опыт создания ПО для WEB платформ, систем управления базами данных, прикладных программных комплексов и аналитических систем</description>
     </item>
     
     <item>
       <title>Демо-доступ: Умное предприятие</title>
-      <link>http://p11.local/infopb/ru/link/smarthome/</link>
+      <link>http://ostojenka.ddns.net/infopb/ru/link/smarthome/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>http://p11.local/infopb/ru/link/smarthome/</guid>
+      <guid>http://ostojenka.ddns.net/infopb/ru/link/smarthome/</guid>
       <description>Применение методов и решений &amp;ldquo;умного дома&amp;rdquo; к управлению предприятием. Концепция &amp;ldquo;Smart Managment&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Техническая поддержка и обсуждение</title>
-      <link>http://p11.local/infopb/ru/article/support-and-discussions/</link>
+      <link>http://ostojenka.ddns.net/infopb/ru/article/support-and-discussions/</link>
       <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
       
-      <guid>http://p11.local/infopb/ru/article/support-and-discussions/</guid>
+      <guid>http://ostojenka.ddns.net/infopb/ru/article/support-and-discussions/</guid>
       <description>Техническая поддержка и обсуждение по каждому из наших проектов осуществляется через соответствующие разделы индивидуальных сайтов проектов</description>
     </item>
     
