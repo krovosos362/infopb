@@ -1,5 +1,5 @@
 title = "InfoProBusiness"
-baseURL = "http://p11.local/infopb"
+baseURL = "http://ostojenka.ddns.net/infopb"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 # theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
