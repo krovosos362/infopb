@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>InfoProBusiness</title>
-    <link>/link/</link>
+    <link>http://p11.local/infopb/link/</link>
     <description>Recent content on InfoProBusiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="/link/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="http://p11.local/infopb/link/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo: Smart Enterprise</title>
-      <link>/link/smarthome/</link>
+      <link>http://p11.local/infopb/link/smarthome/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>/link/smarthome/</guid>
+      <guid>http://p11.local/infopb/link/smarthome/</guid>
       <description>Application of smart home methods and solutions to enterprise management. The concept of &amp;ldquo;Smart Managment&amp;rdquo;</description>
     </item>
     

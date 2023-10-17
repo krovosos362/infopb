@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Areas of activity on InfoProBusiness</title>
-    <link>/tags/areas-of-activity/</link>
+    <link>http://p11.local/infopb/tags/areas-of-activity/</link>
     <description>Recent content in Areas of activity on InfoProBusiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="/tags/areas-of-activity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="http://p11.local/infopb/tags/areas-of-activity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEVELOPMENT AND OPERATION OF INTEGRATED MARKETPLACES</title>
-      <link>/article/marketplaces/</link>
+      <link>http://p11.local/infopb/article/marketplaces/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>/article/marketplaces/</guid>
+      <guid>http://p11.local/infopb/article/marketplaces/</guid>
       <description>Creating marketplaces that include information from many diverse sources. Organization of effective multi-criteria search using dynamic dictionaries. Creating an informative display of heterogeneous data</description>
     </item>
     
     <item>
       <title>SOFTWARE DEVELOPMENT</title>
-      <link>/article/software/</link>
+      <link>http://p11.local/infopb/article/software/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>/article/software/</guid>
+      <guid>http://p11.local/infopb/article/software/</guid>
       <description>We have extensive experience in creating software for WEB platforms, database management systems, application software complexes and analytical systems</description>
     </item>
     
     <item>
       <title>VERIFICATION OF COUNTERPARTIES</title>
-      <link>/article/verification/</link>
+      <link>http://p11.local/infopb/article/verification/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>/article/verification/</guid>
+      <guid>http://p11.local/infopb/article/verification/</guid>
       <description>A set of services for checking and evaluating the reliability of the counterparty. The product provides up-to-date and archived information about companies and entrepreneurs, visualizes all current and historical legal ties, verifies affiliation and identifies final beneficiaries</description>
     </item>
     
