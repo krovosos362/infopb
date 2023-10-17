@@ -1,30 +1,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ИнфоПроБизнес</title>
-    <link>/infopb/ru/</link>
+    <link>/ru/</link>
     <description>Recent content on ИнфоПроБизнес</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 01 Nov 2022 18:01:26 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Dec 2021 10:45:44 +0200</lastBuildDate>
     
-        <atom:link href="/infopb/ru/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Основные направления деятельности</title>
-      <link>/infopb/ru/gallery/main-branches/</link>
-      <pubDate>Tue, 01 Nov 2022 18:01:26 +0100</pubDate>
+      <title>ПРОВЕРКА КОНТРАГЕНТОВ </title>
+      <link>/ru/article/marketplaces/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>/infopb/ru/gallery/main-branches/</guid>
-      <description>ИнфоПроБизнес находится на рынке информационных услуг более 15 лет и за это время мы зарекомендовали себя надежным и проыессиональным исполнителем широкого круга информационных задач</description>
+      <guid>/ru/article/marketplaces/</guid>
+      <description>Комплекс сервисов по проверке и оценке надежности контрагента. Продукт предоставляет актуальные и архивные сведения о компаниях и предпринимателях, визуализирует все действующие и исторические юридические связи, проверяет аффилированность и выявляет конечных бенефициаров</description>
+    </item>
+    
+    <item>
+      <title>РАЗРАБОТКА И ЭКСПЛУАТАЦИЯ ИНТЕГРИРОВАННЫХ МАРКЕТПЛЕЙСОВ</title>
+      <link>/ru/article/verification/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>/ru/article/verification/</guid>
+      <description>Создание маркетплейсов, включающих информацию из многих разнородных источников. Организация эффективного многокритериального поиска с использованием динамическских словарей. Посторение информативного отображения неоднородных данных</description>
+    </item>
+    
+    <item>
+      <title>РАЗРАБОТКА ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ</title>
+      <link>/ru/article/software/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>/ru/article/software/</guid>
+      <description>Мы имеем богатый опыт создания ПО для WEB платформ, систем управления базами данных, прикладных программных комплексов и аналитических систем</description>
+    </item>
+    
+    <item>
+      <title>Демо-доступ: Умное предприятие</title>
+      <link>/ru/link/smarthome/</link>
+      <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
+      
+      <guid>/ru/link/smarthome/</guid>
+      <description>Применение методов и решений &amp;ldquo;умного дома&amp;rdquo; к управлению предприятием. Концепция &amp;ldquo;Smart Managment&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Техническая поддержка и обсуждение</title>
-      <link>/infopb/ru/article/support-and-discussions/</link>
-      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      <link>/ru/article/support-and-discussions/</link>
+      <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
       
-      <guid>/infopb/ru/article/support-and-discussions/</guid>
+      <guid>/ru/article/support-and-discussions/</guid>
       <description>Техническая поддержка и обсуждение по каждому из наших проектов осуществляется через соответствующие разделы индивидуальных сайтов проектов</description>
     </item>
     

@@ -1,5 +1,5 @@
 title = "InfoProBusiness"
-baseURL = "/infopb"
+baseURL = ""
 
 # Option 1 (recommended): adding the theme as a Hugo module
 # theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Information boutique for Professionals"
+    # subtitle = "Information boutique for Professionals"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "infoprobusiness.msk@gmail.com"
@@ -170,6 +170,7 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
+    subtitle = "Information boutique for Professionals"
   [Languages.ru]
     weight = 2
     title = "ИнфоПроБизнес"

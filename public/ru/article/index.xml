@@ -2,17 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on ИнфоПроБизнес</title>
-    <link>/infopb/ru/article/</link>
+    <link>/ru/article/</link>
     <description>Recent content in Articles on ИнфоПроБизнес</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="/infopb/ru/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="/ru/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Техническая поддержка и обсуждение</title>
-      <link>/infopb/ru/article/support-and-discussions/</link>
+      <title>ПРОВЕРКА КОНТРАГЕНТОВ </title>
+      <link>/ru/article/marketplaces/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>/infopb/ru/article/support-and-discussions/</guid>
+      <guid>/ru/article/marketplaces/</guid>
+      <description>Комплекс сервисов по проверке и оценке надежности контрагента. Продукт предоставляет актуальные и архивные сведения о компаниях и предпринимателях, визуализирует все действующие и исторические юридические связи, проверяет аффилированность и выявляет конечных бенефициаров</description>
+    </item>
+    
+    <item>
+      <title>РАЗРАБОТКА И ЭКСПЛУАТАЦИЯ ИНТЕГРИРОВАННЫХ МАРКЕТПЛЕЙСОВ</title>
+      <link>/ru/article/verification/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>/ru/article/verification/</guid>
+      <description>Создание маркетплейсов, включающих информацию из многих разнородных источников. Организация эффективного многокритериального поиска с использованием динамическских словарей. Посторение информативного отображения неоднородных данных</description>
+    </item>
+    
+    <item>
+      <title>РАЗРАБОТКА ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ</title>
+      <link>/ru/article/software/</link>
+      <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>/ru/article/software/</guid>
+      <description>Мы имеем богатый опыт создания ПО для WEB платформ, систем управления базами данных, прикладных программных комплексов и аналитических систем</description>
+    </item>
+    
+    <item>
+      <title>Техническая поддержка и обсуждение</title>
+      <link>/ru/article/support-and-discussions/</link>
+      <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
+      
+      <guid>/ru/article/support-and-discussions/</guid>
       <description>Техническая поддержка и обсуждение по каждому из наших проектов осуществляется через соответствующие разделы индивидуальных сайтов проектов</description>
     </item>
     
