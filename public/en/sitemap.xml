@@ -2,258 +2,258 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ostojenka.ddns.net/infopb/page/we/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/page/we/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/page/we/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/page/we/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/page/we/"
+                href="http://ostojenka.ddns.net:8181/infopb/page/we/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/"
+                href="http://ostojenka.ddns.net:8181/infopb/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/page/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/page/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/page/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/page/"
+                href="http://ostojenka.ddns.net:8181/infopb/page/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/article/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/article/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/article/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/article/"
+                href="http://ostojenka.ddns.net:8181/infopb/article/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/areas-of-activity/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/areas-of-activity/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/article/marketplaces/</loc>
-    <lastmod>2021-11-01T18:10:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/article/marketplaces/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/article/marketplaces/"
-                />
-  </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/article/software/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/article/marketplaces/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/article/software/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/article/marketplaces/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/article/software/"
+                href="http://ostojenka.ddns.net:8181/infopb/article/marketplaces/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/article/software/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/tags/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/article/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/tags/"
+                href="http://ostojenka.ddns.net:8181/infopb/article/software/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/article/verification/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/</loc>
     <lastmod>2021-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/article/verification/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/article/verification/"
+                href="http://ostojenka.ddns.net:8181/infopb/tags/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/page/banking-information/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/article/verification/</loc>
+    <lastmod>2021-11-01T18:10:14+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/article/verification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ostojenka.ddns.net:8181/infopb/article/verification/"
+                />
+  </url><url>
+    <loc>http://ostojenka.ddns.net:8181/infopb/page/banking-information/</loc>
     <lastmod>2021-11-01T13:18:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/page/banking-information/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/page/banking-information/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/page/banking-information/"
+                href="http://ostojenka.ddns.net:8181/infopb/page/banking-information/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/page/contacts/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/page/contacts/</loc>
     <lastmod>2021-11-01T13:17:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/page/contacts/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/page/contacts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/page/contacts/"
+                href="http://ostojenka.ddns.net:8181/infopb/page/contacts/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/link/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/link/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/link/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/link/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/link/"
+                href="http://ostojenka.ddns.net:8181/infopb/link/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/categories/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/categories/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/categories/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/categories/"
+                href="http://ostojenka.ddns.net:8181/infopb/categories/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/link/smarthome/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/link/smarthome/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/link/smarthome/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/link/smarthome/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/link/smarthome/"
+                href="http://ostojenka.ddns.net:8181/infopb/link/smarthome/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/categories/management/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/categories/management/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/smart-enterprise/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/smart-enterprise/</loc>
     <lastmod>2021-11-01T13:05:27+01:00</lastmod>
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/discussions/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/discussions/</loc>
     <lastmod>2020-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/ideas/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/ideas/</loc>
     <lastmod>2020-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/qa/</loc>
-    <lastmod>2020-11-01T18:10:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/tags/qa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/tags/qa/"
-                />
-  </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/show-and-tell/</loc>
-    <lastmod>2020-11-01T18:10:14+01:00</lastmod>
-  </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/tags/support/</loc>
-    <lastmod>2020-11-01T18:10:14+01:00</lastmod>
-  </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/article/support-and-discussions/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/qa/</loc>
     <lastmod>2020-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/article/support-and-discussions/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/tags/qa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/article/support-and-discussions/"
+                href="http://ostojenka.ddns.net:8181/infopb/tags/qa/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/gallery/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/show-and-tell/</loc>
+    <lastmod>2020-11-01T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/archive/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/tags/support/</loc>
+    <lastmod>2020-11-01T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://ostojenka.ddns.net:8181/infopb/article/support-and-discussions/</loc>
+    <lastmod>2020-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/archive/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/article/support-and-discussions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/archive/"
+                href="http://ostojenka.ddns.net:8181/infopb/article/support-and-discussions/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/author/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/gallery/</loc>
+  </url><url>
+    <loc>http://ostojenka.ddns.net:8181/infopb/archive/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/author/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/author/"
+                href="http://ostojenka.ddns.net:8181/infopb/archive/"
                 />
   </url><url>
-    <loc>http://ostojenka.ddns.net/infopb/series/</loc>
+    <loc>http://ostojenka.ddns.net:8181/infopb/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://ostojenka.ddns.net/infopb/ru/series/"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://ostojenka.ddns.net/infopb/series/"
+                href="http://ostojenka.ddns.net:8181/infopb/author/"
+                />
+  </url><url>
+    <loc>http://ostojenka.ddns.net:8181/infopb/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://ostojenka.ddns.net:8181/infopb/ru/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ostojenka.ddns.net:8181/infopb/series/"
                 />
   </url>
 </urlset>
