@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Умное предприятие on ИнфоПроБизнес</title>
-    <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
+    <link>/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
     <description>Recent content in Умное предприятие on ИнфоПроБизнес</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="http://ostojenka.ddns.net:8181/infopb/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Демо-доступ: Умное предприятие</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/link/smarthome/</link>
+      <link>/ru/link/smarthome/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/link/smarthome/</guid>
+      <guid>/ru/link/smarthome/</guid>
       <description>Применение методов и решений &amp;ldquo;умного дома&amp;rdquo; к управлению предприятием. Концепция &amp;ldquo;Smart Managment&amp;rdquo;</description>
     </item>
     

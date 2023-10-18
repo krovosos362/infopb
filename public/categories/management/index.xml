@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Management on InfoProBusiness</title>
-    <link>http://ostojenka.ddns.net:8181/infopb/categories/management/</link>
+    <link>/categories/management/</link>
     <description>Recent content in Management on InfoProBusiness</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="http://ostojenka.ddns.net:8181/infopb/categories/management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 13:05:27 +0100</lastBuildDate><atom:link href="/categories/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo: Smart Enterprise</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/link/smarthome/</link>
+      <link>/link/smarthome/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/link/smarthome/</guid>
+      <guid>/link/smarthome/</guid>
       <description>Application of smart home methods and solutions to enterprise management. The concept of &amp;ldquo;Smart Managment&amp;rdquo;</description>
     </item>
     

@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ИнфоПроБизнес</title>
-    <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/</link>
+    <link>/ru/tags/</link>
     <description>Recent content in Tags on ИнфоПроБизнес</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="http://ostojenka.ddns.net:8181/infopb/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Направления деятельности</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <link>/ru/tags/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
       <pubDate>Mon, 01 Nov 2021 18:10:14 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <guid>/ru/tags/%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Умное предприятие</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
+      <link>/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
       <pubDate>Mon, 01 Nov 2021 13:05:27 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</guid>
+      <guid>/ru/tags/%D1%83%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Q&amp;A</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/qa/</link>
+      <link>/ru/tags/qa/</link>
       <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/tags/qa/</guid>
+      <guid>/ru/tags/qa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Идеи</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%B8%D0%B4%D0%B5%D0%B8/</link>
+      <link>/ru/tags/%D0%B8%D0%B4%D0%B5%D0%B8/</link>
       <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%B8%D0%B4%D0%B5%D0%B8/</guid>
+      <guid>/ru/tags/%D0%B8%D0%B4%D0%B5%D0%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Обсуждение</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <link>/ru/tags/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>/ru/tags/%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Поддержка</title>
-      <link>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</link>
+      <link>/ru/tags/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</link>
       <pubDate>Sun, 01 Nov 2020 18:10:14 +0100</pubDate>
       
-      <guid>http://ostojenka.ddns.net:8181/infopb/ru/tags/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</guid>
+      <guid>/ru/tags/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</guid>
       <description></description>
     </item>
     

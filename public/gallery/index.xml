@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>InfoProBusiness</title>
-    <link>http://ostojenka.ddns.net:8181/infopb/gallery/</link>
+    <link>/gallery/</link>
     <description>Recent content on InfoProBusiness</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://ostojenka.ddns.net:8181/infopb/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
